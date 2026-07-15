@@ -19,15 +19,6 @@ The app allows users to create, edit, delete, and manage notes locally using SQL
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-| Splash Screen | Home Screen | Add Note |
-|--------------|------------|----------|
-| Screenshot | Screenshot | Screenshot |
-
----
 
 ## 🛠️ Built With
 
@@ -104,7 +95,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Mohammed Khaled**
+**ُEng:  Mohammed Khaled**
 
 GitHub:
 https://github.com/Mohammedbanboraik
