@@ -95,7 +95,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**ُEng:  Mohammed Khaled**
+**Eng:  Mohammed Khaled Ban Boraik**
 
 GitHub:
 https://github.com/Mohammedbanboraik
